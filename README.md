@@ -15,7 +15,7 @@ I hope you enjoyed the watch,
 
 Good luck, and have fun!
 
-[Step-by-Step Textual guide!](instructions.pdf)
+[Step-by-Step Textual guide!](https://github.com/Vicible2/watch-3D-preset/blob/main/Instructions.pdf "Instructions")
 
 
 
