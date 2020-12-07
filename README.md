@@ -14,6 +14,7 @@ I will include a textual guide once my presentation has finished, so you can all
 I hope you enjoyed the watch,
 
 Good luck, and have fun!
+***
 
 [Step-by-Step Textual guide!](https://github.com/Vicible2/watch-3D-preset/blob/main/Instructions.pdf "Instructions")
 
