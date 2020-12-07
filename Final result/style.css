@@ -1,0 +1,39 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    overflow: hidden;
+    background-image: url(./bg/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.menuButton {
+    background-color: transparent;
+    border: 2px solid orange;
+    color: white;
+    border-bottom: none;
+    width: auto;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 43%;
+    padding: 7px;
+    border-radius: 6px 6px 0px 0px;
+}
+.menuButton:hover {
+    padding: 10px 9px;
+    cursor: pointer;
+    border: 1px solid orange;
+    border-bottom: none;
+}
+.scene,
+canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
